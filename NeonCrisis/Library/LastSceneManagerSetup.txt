@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Team Scenes/Jamie/Test How To Screen.unity
+- path: Assets/Scenes/Team Scenes/Jamie/Jamie_Start_Screen (2).unity
   isLoaded: 1
   isActive: 1
