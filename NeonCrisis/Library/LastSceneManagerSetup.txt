@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Team Scenes/Jamie/Jamie_Start_Screen (2).unity
+- path: Assets/Scenes/Team Scenes/NeonCrisisFinalScene.unity
   isLoaded: 1
   isActive: 1
